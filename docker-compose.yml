@@ -8,5 +8,5 @@ services:
       - ./data:/var/lib/postgresql/data
     environment:
       - POSTGRES_DB=app
-      - POSTGRES_USER=student
-      - POSTGRES_PASSWORD=VSXDUE
+      - POSTGRES_USER=app
+      - POSTGRES_PASSWORD=9mREsvXDs9Gk89Ef
